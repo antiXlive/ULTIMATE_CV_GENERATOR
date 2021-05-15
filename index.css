@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    background-color: #1a1a1d;
+    /* background-color: #1a1a1d; */
 }
 .welcome{
     color: #c3073f;
@@ -10,7 +10,7 @@
 .heading{
     color: #0bb6c2;
     text-align: center;
-    margin-top: 10vh;
+    margin-top: 3vh;
     /* display:inline-block; */
 }
 .heading >a{
@@ -21,11 +21,12 @@
 input{
     padding:5px;
     margin: 10px 10px;
+    color:#000;
 }
 input[type=text] {
     /* background-color: rgb(206, 36, 36); */
     /* border:#c50606; */
-    color: white;
+    color: #000;
     width:210px;
 }
 input[type=number] {
@@ -194,4 +195,9 @@ button{
 .inner_container{
     height:793px;
     width:700px;
+}
+
+
+.active_form_tab{
+    background-color: #0bb6c2;
 }

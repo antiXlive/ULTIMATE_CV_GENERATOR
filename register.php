@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: #1a1a1d;">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@
                 <input style='border:1px solid #3FB7C2;width:200px;color:#FFF' type="text" name="username" required>
             </div>
         </div>
-        <div style=''>
+        <div>
             <div>
                 <p style='color:#3FB7C2;margin:0;text-align:left'>PASSWORD :</p>
             </div>
