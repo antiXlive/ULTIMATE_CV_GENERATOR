@@ -14,12 +14,9 @@ This is PHP based web application to generate responsive and dynamic CV. It supp
 </h5>
 
 # Installation
-<p>1. Firstly, you need to place the module folder in the modules directory of the QloApps.</p>
-<p align='center'>cp module /qlo/modules</p>
-<p>2. Then go to the dashboard/backoffice of the qlo.</p>
-<p>3. Click on the modules and services tabs.</p>
-<p>4. Then click install on the IIITM Venue Management module.</p>
-<p>5. Your module has been successfully installed.</p>
+<p>1. Deploy this project directory in /var/www/html directory, i.e the location which is used by Apache Server to host files .</p>
+<p>2. Then setup the database according to the pgsql database file.</p>
+<p>3. Navigate to your localhost and then access the project root folder.</p>
 
 
 
