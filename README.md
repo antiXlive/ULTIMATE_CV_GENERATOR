@@ -18,7 +18,27 @@ This is PHP based web application to generate responsive and dynamic CV. It supp
 <p>2. Then setup the database according to the pgsql database file.</p>
 <p>3. Navigate to your localhost and then access the project root folder.</p>
 
+# Screenshots
 
+
+### Authentication
+
+<img
+    alt="Capture 1"
+    src="./readme_assets/auth.webp"
+/>
+<img
+    alt="Capture 2"
+    src="./readme_assets/home1.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/home2.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/pdf.webp"
+/>
 
 ## Star, Fork, Clone & Contribute
 
