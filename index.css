@@ -1,0 +1,197 @@
+*{
+    box-sizing: border-box;
+    background-color: #1a1a1d;
+}
+.welcome{
+    color: #c3073f;
+    text-align: center;
+    /* display:inline-block; */
+}
+.heading{
+    color: #0bb6c2;
+    text-align: center;
+    margin-top: 10vh;
+    /* display:inline-block; */
+}
+.heading >a{
+    text-decoration: none;
+    color: #0bb6c2;
+}
+
+input{
+    padding:5px;
+    margin: 10px 10px;
+}
+input[type=text] {
+    /* background-color: rgb(206, 36, 36); */
+    /* border:#c50606; */
+    color: white;
+    width:210px;
+}
+input[type=number] {
+    /* background-color: rgb(182, 212, 201); */
+    color: white;
+}
+input[type=button] {
+    /* background-color: rgb(182, 212, 201); */
+    color: rgb(206, 186, 9);
+}
+input[type=email] {
+    /* background-color: rgb(182, 212, 201); */
+    color: rgb(248, 248, 244);
+}
+input[type=submit] {
+    /* background-color: #3CBC8D; */
+    color: rgb(77, 248, 9);
+}
+.form_div{
+    /* border:1px solid black; */
+    color:white;
+    margin: 20px;
+    padding: 10px;
+    display:flex;
+    width:100%;
+}
+
+.details_div{
+    /* border:1px solid black; */
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.basic_information{
+    border:1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+    /* width:400px; */
+}
+
+.work_experience{
+    border:1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+}
+
+.education{
+    border:1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+}
+
+.languages{
+    border:1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+}
+
+.skills{
+    border:1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+}
+
+.user_details{
+    color: blue;
+}
+
+.form_submit_button{
+    margin-top: 10px;
+}
+
+.cv_format_choice{
+    display: flex;
+    justify-content: center;
+}
+.cv_format_choice > form{
+    display: flex;
+    justify-content: center;
+    height:200px;
+    width:200px;
+    margin: 20px;
+    border:1px solid red;
+}
+
+.cv_format_choice>a{
+    text-decoration: none;
+    color: rgb(154, 255, 4);
+}
+
+.cv_format_choice_outer{
+    /* border: 1px solid black; */
+    padding:20px;
+    color: rgb(26, 179, 179);
+    /* display: inline-block; */
+}
+textarea{
+    color: aliceblue;
+}
+select{
+    color: aliceblue;
+}
+.cv_format_choice_block{
+    margin: 30px 30px;
+    width:200px;
+    height:200px;
+    border: 1px solid rgb(26, 179, 179);
+    text-decoration: none;
+    text-align: center;
+}
+#logout{
+    display: inline;
+    color: red;
+    float: right;
+    margin-top: 0;
+}
+.logoutQ{
+    display: inline;
+    color: red;
+    float: right;
+    /* margin-right: 10px; */
+    margin-top: 0;
+    padding-top: 9px;
+}
+
+
+.register{
+    /* display: inline; */
+    color:greenyellow;
+    /* float:right; */
+    margin-top: 0;
+    text-decoration: none;
+}
+input[type=submit].logout {
+    color:rgb(238, 27, 20);
+    float:right;
+    margin-top: 0;
+    /* display: inline-block; */
+}
+button{
+    color:greenyellow;
+}
+
+
+
+
+
+/* onepage_format styles */
+
+.main_container{
+    /* display: flex; */
+    /* flex-direction: column; */
+    height:112px;
+    width:794px;
+    /* border: 1px solid black; */
+
+}
+
+.inner_container{
+    height:793px;
+    width:700px;
+}
