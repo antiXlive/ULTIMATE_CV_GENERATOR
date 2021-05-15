@@ -21,8 +21,6 @@ This is PHP based web application to generate responsive and dynamic CV. It supp
 # Screenshots
 
 
-### Authentication
-
 <img
     alt="Capture 1"
     src="./readme_assets/auth.webp"
